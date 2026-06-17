@@ -1,0 +1,11 @@
+Senior AI Engineer
+
+Looking for engineers with experience in:
+
+- Embeddings
+- Retrieval Systems
+- Search Ranking
+- Recommendation Systems
+- Vector Databases
+- Python
+- Production Machine Learning
