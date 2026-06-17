@@ -27,3 +27,10 @@ The system:
    * Behavioral signals
 4. Produces a final ranked list.
 5. Generates recruiter-friendly explanations for every shortlisted candidate.
+---
+
+## Dataset & Embeddings
+
+The original candidate dataset and generated embedding files are not included in this repository because they exceed GitHub file size limits.
+
+The ranking pipeline, scoring modules, explainability engine, and submission generation code are fully provided.
