@@ -27,6 +27,7 @@ The system:
    * Behavioral signals
 4. Produces a final ranked list.
 5. Generates recruiter-friendly explanations for every shortlisted candidate.
+
 ---
 
 ## Dataset & Embeddings
